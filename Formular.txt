@@ -1,0 +1,8 @@
+1. x^n = (x^(n+1)) / (n+1)
+
+
+2. 1/x = ln(x) 
+3. sin(x) = -cos(x)
+4. cos(x) = sin(x)
+5. e^x = e^x 
+6. ln(x) = xln(x) - x
