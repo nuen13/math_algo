@@ -1,0 +1,17 @@
+Newton's Law of Cooling Down
+
+
+T = A * e ^ (-k * t) + Ta 
+
+T = Temperature
+A = Constant 
+e = 2.718281828459045
+k = k constant 
+t = time 
+Ta = Ambient Temperature
+
+What is given: 
+1. 
+- T0, t0, Ta, T1, t1
+- find k, and a
+
