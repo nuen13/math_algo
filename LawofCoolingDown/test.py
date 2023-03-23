@@ -1,6 +1,6 @@
 import numpy as np
 import math
     
-constantK = ((math.log((40 - 15) / 35)) / 5)
+constantK = ((math.log((seccondTemp - ambientTemp) / constantA)) / seccondTime)
 
 print(constantK)
