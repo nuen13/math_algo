@@ -1,7 +1,11 @@
 Newton's Law of Cooling Down
 
 
-T = A * e ^ (-k * t) + Ta 
+(1) T = A * e ^ (-k * t) + Ta 
+(2) k = - ( (ln((T - Ta) / A) ) / t ) 
+(3) t = - ( (ln((T - Ta) / A) ) / k  ) 
+
+
 
 T = Temperature
 A = Constant 
@@ -15,3 +19,12 @@ What is given:
 - T0, t0, Ta, T1, t1
 - find k, and a
 
+zeroTi = 0
+zeroTe = 0
+oneTi = 0
+oneTe = 0
+twoTe = 0
+twoTi = 0
+ambTe = 0
+constA = 0
+constK = 0
